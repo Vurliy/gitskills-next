@@ -1,3 +1,3 @@
 # gitskills
-Creating a new branch is quick
-fewafewafeafe.
+fewafewafeafe.ewafewwfawefawwafewafwafewff
+Git is a free software
